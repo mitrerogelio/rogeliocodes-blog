@@ -1,7 +1,7 @@
 ---
 author: Rogelio Mitre
 datetime: 2023-01-22T20:48:00Z
-title: What is web development?
+title: What is web development
 slug: what-is-web-dev
 featured: false
 draft: false
