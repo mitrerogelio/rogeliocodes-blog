@@ -3,34 +3,21 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+My journey in software engineering began with dropping out of college after one semester. I was recently married, and lost in terms of my next steps career-wise.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+I needed to find a way to make a living, and quickly.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+I learned about digital marketing, and saw that there was an entire community of people leveraging technology in order to earn a good salary. All one had to do, was gain the necessary skills, and objectively prove that they could provide value.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
 
-## Tech Stack
+## It all began with one HTML tag...
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+After having made my first WordPress website. I wanted to learn about how to make a websites from scratch. I found an entire HTML course from The New Boston on YouTube. The rest is history 🥰.
 
-## Features
+## Where I am now
 
-Here are certain features of this site.
+After teaching myself HTML, CSS, JavaScript, and PHP, I was able to find a job in tech. I am currently learning React, Astro, Node, and Express.
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+I'm getting funny ideas and want to add something powerful like C# and ASP.NET to my toolbelt. I'll probably let you know on one of my posts 😉.
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+If you like this Astro theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).

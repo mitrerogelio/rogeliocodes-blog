@@ -22,7 +22,7 @@ const { activeNav } = Astro.props;
           LOGO_IMAGE.enable ? (
             <img
               src={LOGO_IMAGE.svg ? logoSVG : logoPNG}
-              alt="AstroPaper Logo"
+              alt="Rogelio Mitre - Blog Logo"
               width={LOGO_IMAGE.width}
               height={LOGO_IMAGE.height}
             />
@@ -51,13 +51,13 @@ const { activeNav } = Astro.props;
             </a>
           </li>
           <li>
-            <a href="/tags" class={activeNav === "tags" ? "active" : ""}>
-              Tags
+            <a href="/about" class={activeNav === "about" ? "active" : ""}>
+              About
             </a>
           </li>
           <li>
-            <a href="/about" class={activeNav === "about" ? "active" : ""}>
-              About
+            <a href="/tags" class={activeNav === "tags" ? "active" : ""}>
+              Tags
             </a>
           </li>
           <li>
