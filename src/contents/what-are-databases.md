@@ -1,7 +1,7 @@
 ---
 author: Rogelio Mitre
 datetime: 2022-11-15T02:57:18.414Z
-title: What are databases?
+title: Intro to databases
 slug: what-are-databases
 featured: false
 draft: false
