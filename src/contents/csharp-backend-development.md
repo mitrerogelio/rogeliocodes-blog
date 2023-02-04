@@ -1,8 +1,8 @@
 ---
 author: Rogelio Mitre
 datetime: 2023-01-30T15:22:00Z
-title: Why I like C# for backend
-slug: csharp-compared-backend-development
+title: Why I like ASP.NET for backend
+slug: aspdotnet-compared-backend-development
 featured: false
 draft: false
 tags:
