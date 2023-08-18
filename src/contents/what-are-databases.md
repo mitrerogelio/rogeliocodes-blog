@@ -13,8 +13,7 @@ tags:
   - mongodb
   - mysql
 ogImage: ""
-description:
-  An introductory article about databases. I cover SQL databases such as MySQL, and NoSQL databases such as MongoDB.
+description: An introductory article about databases. I cover SQL databases such as MySQL, and NoSQL databases such as MongoDB.
 ---
 
 ## So, what is a Database?
@@ -33,7 +32,7 @@ One of the most popular SQL databases is MySQL. It is an open-source database ma
 
 ## NoSQL Databases
 
-NoSQL databases, on the other hand, do not have a predefined schema and do not use the relational model. They are designed to handle large amounts of unstructured or semi-structured data, and can scale easily to handle large amounts of data and concurrent users. Examples of NoSQL databases include MongoDB, Firestore DB and Cassandra. 
+NoSQL databases, on the other hand, do not have a predefined schema and do not use the relational model. They are designed to handle large amounts of unstructured or semi-structured data, and can scale easily to handle large amounts of data and concurrent users. Examples of NoSQL databases include MongoDB, Firestore DB and Cassandra.
 
 ## Getting started for free
 

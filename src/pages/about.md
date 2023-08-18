@@ -9,7 +9,6 @@ I needed to find a way to make a living, and quickly.
 
 I learned about digital marketing, and saw that there was an entire community of people leveraging technology in order to earn a good salary. All one had to do, was gain the necessary skills, and objectively prove that they could provide value.
 
-
 ## It all began with one HTML tag...
 
 After having made my first WordPress website. I wanted to learn about how to make a websites from scratch. I found an entire HTML course from The New Boston on YouTube. The rest is history 🥰.

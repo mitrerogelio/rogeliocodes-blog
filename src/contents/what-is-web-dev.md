@@ -11,8 +11,7 @@ tags:
   - backend
   - basics
 ogImage: ""
-description:
-  An introduction to the world of web development for beginners.
+description: An introduction to the world of web development for beginners.
 ---
 
 # Welcome to the World of Web Development
@@ -68,40 +67,48 @@ There are also many popular web frameworks used in back-end development. Some of
 Web development can seem overwhelming, but there are many resources available for learning and getting started for free. Here are some ways to get started with each language and framework/library mentioned in this blog post:
 
 ### HTML, CSS, and JavaScript
+
 - Codecademy: Offers interactive coding lessons for HTML, CSS, and JavaScript.
 - FreeCodeCamp: Offers a comprehensive curriculum that includes interactive coding challenges and projects.
 - W3Schools: Offers tutorials and references for HTML, CSS, and JavaScript.
 
 ### React
+
 - Reactjs.org: Offers an official tutorial, documentation, and resources for learning React. The React Beta Docs (at the time of writing) are a great place to start, as they include function-based components for their tutorials.
 - FreeCodeCamp: Offers a comprehensive curriculum that includes interactive coding challenges and projects using React.
 
 ### Angular
+
 - Angular.io: Offers official documentation, tutorials, and resources for learning Angular.
 - FreeCodeCamp: Offers a comprehensive curriculum that includes interactive coding challenges and projects using Angular.
 - Codecademy: Offers interactive coding lessons for Angular.
 
 ### Vue
+
 - Vuejs.org: Offers official documentation, tutorials, and resources for learning Vue.
 - FreeCodeCamp: Offers a comprehensive curriculum that includes interactive coding challenges and projects using Vue.
 - Codecademy: Offers interactive coding lessons for Vue.
 
 ### Ruby on Rails
+
 - Rails Tutorial by Michael Hartl: Offers a free online book and accompanying video tutorials for learning Ruby on Rails.
 - FreeCodeCamp: Offers a comprehensive curriculum that includes interactive coding challenges and projects using Ruby on Rails.
 - Ruby on Rails Tutorial: Learn Web Development with Rails by Michael Hartl offers a free online book and accompanying video tutorials for learning Ruby on Rails.
 
 ### Laravel
+
 - Laravel website: Offers official documentation, tutorials and resources for learning Laravel.
 - FreeCodeCamp: Offers a comprehensive curriculum that includes interactive coding challenges and projects using Laravel.
 - Codecademy: Offers interactive coding lessons for Laravel.
 
 ### Django
+
 - DjangoGirls: Offers free online tutorials and resources for learning Django.
 - FreeCodeCamp: Offers a comprehensive curriculum that includes interactive coding challenges and projects using Django.
 - Codecademy: Offers interactive coding lessons for Django.
 
 ### Express.js
+
 - Expressjs.com: Offers official documentation, tutorials, and resources for learning Express.js.
 - FreeCodeCamp: Offers a comprehensive curriculum that includes interactive coding challenges and projects using Express.js.
 - Codecademy: Offers interactive coding lessons for Express.js.

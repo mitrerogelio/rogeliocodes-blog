@@ -8,7 +8,6 @@ import Card from "@components/Card";
 import getSortedPosts from "@utils/getSortedPosts";
 import slugify from "@utils/slugify";
 import type { Frontmatter } from "src/types";
-import Socials from "@components/Socials.astro";
 import { SITE, SOCIALS } from "@config";
 
 const posts = await Astro.glob<Frontmatter>("../contents/**/*.md");
@@ -28,7 +27,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <h1>Welcome to my blog 🤙🏾</h1>
 
       <p>
-        This is a place where I share my ups and downs in this amazing journey that has been software engineering. Here you'll find study tricks, biased technology choices, and good 'ol fun. Enjoy 📝😎
+        This is a place where I share my ups and downs in this amazing journey
+        that has been software engineering. Here you'll find study tricks,
+        biased technology choices, and good 'ol fun. Enjoy 📝😎
       </p>
       <p>
         Read my blog posts or check
