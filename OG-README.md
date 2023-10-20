@@ -73,7 +73,7 @@ All blog posts are stored in `src/contents/` directory.
 
 ## 📖 Documentation
 
-Documentation can be read in two formats\_ _markdown_ & _blog post_.
+Documentation can be read in two formats  _markdown_ & _blog post_.
 
 - Configuration - [markdown](src/contents/how-to-configure-astropaper-theme.md) | [blog post](https://astro-paper.pages.dev/posts/how-to-configure-astropaper-theme/)
 - Add Posts - [markdown](src/contents/adding-new-post.md) | [blog post](https://astro-paper.pages.dev/posts/adding-new-posts-in-astropaper-theme/)
